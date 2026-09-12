@@ -1,0 +1,12 @@
+المشروع: نظام إدارة المهام الطلابية
+التقنية: PHP + MySQL
+
+قبل التشغيل:
+1) انسخ config.example.php إلى config.php.
+2) عدّل بيانات الاتصال حسب XAMPP أو InfinityFree.
+3) أنشئ قاعدة البيانات واستورد database.sql.
+
+للتسليم على GitHub:
+- ارفع جميع الملفات ما عدا config.php.
+- أضف زميلك Collaborator.
+- وثق عمليات clone وpull وpush بلقطات شاشة.
